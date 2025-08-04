@@ -37,3 +37,7 @@ git push origin feature/add-readme-note
 - PRタイトル：docs: READMEにPR練習用の追記
 - 説明欄に軽く書けばOK 例：「GitHub Flowの練習のため、READMEに1行追記しました。」
 - 
+
+### 4. プルリクエストが承認されたらmainブランチにマージする。
+- Git上でfeatureブランチ削除。ローカルの同じブランチも"手動"で削除
+- mainブランチをpullして、mainブランチに移動して作業再開！
