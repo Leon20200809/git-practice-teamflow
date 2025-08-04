@@ -40,4 +40,4 @@ git push origin feature/add-readme-note
 
 ### 4. プルリクエストが承認されたらmainブランチにマージする。
 - Git上でfeatureブランチ削除。ローカルの同じブランチも"手動"で削除
-- mainブランチをpullして、mainブランチに移動して作業再開！
+- mainブランチをpullして、新しいfeatureブランチに移動して作業再開！
